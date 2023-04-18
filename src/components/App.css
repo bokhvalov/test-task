@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+}
+
+.filterContainer {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.filterContainer select {
+  padding: 8px 12px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #e0e0e0;
+  color: #444;
+  cursor: pointer;
+  margin-left: 10px;
+}
