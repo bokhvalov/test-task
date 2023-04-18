@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-homework-template/static/css/main.db958e97.css",
+    "main.js": "/react-homework-template/static/js/main.3d016908.js",
+    "static/media/default-avatar.svg": "/react-homework-template/static/media/default-avatar.918076df19e203d43dc62fa847304f07.svg",
+    "static/media/background.svg": "/react-homework-template/static/media/background.1a865da81713d8fe36d828178a9c9762.svg",
+    "static/media/logo-goit.svg": "/react-homework-template/static/media/logo-goit.e917114d7945c04c85a8946a331d28b6.svg",
+    "static/media/avatar-elipse.svg": "/react-homework-template/static/media/avatar-elipse.cf73322ac91036f99e3ae778c55a4a05.svg",
+    "index.html": "/react-homework-template/index.html",
+    "main.db958e97.css.map": "/react-homework-template/static/css/main.db958e97.css.map",
+    "main.3d016908.js.map": "/react-homework-template/static/js/main.3d016908.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db958e97.css",
+    "static/js/main.3d016908.js"
+  ]
+}
